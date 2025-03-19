@@ -25,5 +25,5 @@ fun WheelPickerDialog(
   <li>optionsList = the list what you want to show in dialog</li>
 </ul>
 
-# Lisence
+# License
 <a href="https://github.com/jhw010406/3d-wheel-picker-compose/blob/main/LICENSE">Apache 2.0</a>
