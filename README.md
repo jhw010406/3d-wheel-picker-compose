@@ -24,3 +24,6 @@ fun WheelPickerDialog(
   <li>onConfirm = callback when select any element on options list</li>
   <li>optionsList = the list what you want to show in dialog</li>
 </ul>
+
+# Lisence
+<a href="https://github.com/jhw010406/3d-wheel-picker-compose/blob/main/LICENSE">Apache 2.0</a>
