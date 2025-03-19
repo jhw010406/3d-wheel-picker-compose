@@ -5,7 +5,7 @@ Simple 3D Wheel Picker for Android Compose
 <div align=center><img src="https://github.com/user-attachments/assets/06177bc4-7845-41a4-82aa-b925986bc8fc"></div>
 
 # How to include
-Just import <a href="https://github.com/jhw010406/3d-wheel-picker-compose/blob/main/app/src/main/java/com/jhw/myapplication/WheelPickerView.kt">WheelPickerView.kt</a> to your project
+Just merge <a href="https://github.com/jhw010406/3d-wheel-picker-compose/blob/main/app/src/main/java/com/jhw/myapplication/WheelPickerView.kt">WheelPickerView.kt</a> to your project
 
 # Usage
 ```kotlin
